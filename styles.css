@@ -1,0 +1,12 @@
+body{
+    width: 100%;
+    margin: 0;
+    background-color: gainsboro;
+}
+
+.wrapper {
+    display: flex;
+    width: 70%;
+    margin: auto;
+    background-color: crimson;
+}
