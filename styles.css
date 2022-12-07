@@ -5,8 +5,11 @@ body{
 }
 
 .wrapper {
-    display: flex;
-    width: 70%;
-    margin: auto;
-    background-color: crimson;
+    width: 960px;
+    margin: 0 auto;
+    background-color: aquamarine;
+  }
+
+  header {
+    width: 960px;
 }
